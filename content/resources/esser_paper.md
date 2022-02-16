@@ -2,8 +2,13 @@
 content_type: resource
 description: Student paper on the role of cities in both the outbreak and the appeasement
   in large-scale violent conflicts.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-949-cities-in-conflict-theory-and-practice-fall-2003/4b8b06d29fe96ad24e810832e2bf566d_esser_paper.pdf
+file: /media/courses/11-949-cities-in-conflict-theory-and-practice-fall-2003/4b8b06d29fe96ad24e810832e2bf566d_esser_paper.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: "Achieving Peace in Crisis Cities \u2013 Reflections on Urban Conflict Transformation\
   \ and the Nation State Project "

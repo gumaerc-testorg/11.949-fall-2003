@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: French royal ordinance from 1666 (thumbnail)
 uid: fc65c498-39ec-d770-5f77-b3fb2273569b
 ---
