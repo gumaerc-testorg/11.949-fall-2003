@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2af1dfce-f698-0004-33dc-8ef59eadbda7
 resourcetype: Document
 title: "Gujarat \u2013 Ahmedabad: a quagmire of recurring conflict"
 uid: 8142ade5-3a51-fb19-2bd0-d6276ee32a28

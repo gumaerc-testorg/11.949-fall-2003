@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2af1dfce-f698-0004-33dc-8ef59eadbda7
 resourcetype: Document
 title: "Achieving Peace in Crisis Cities \u2013 Reflections on Urban Conflict Transformation\
   \ and the Nation State Project "
