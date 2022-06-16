@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the course assignments and examples
+  of student papers written for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -11,6 +13,6 @@ Students are expected to read, critically assess, and write commentaries on cour
 
 Examples of student papers are offered below. The student work is courtesy of Daniel Esser and Shahid Sadruddin Nanavati. Used with permission.
 
-Achieving Peace in Crisis Cities – Reflections on Urban Conflict Transformation and the Nation State Project, by Daniel Esser ([PDF]({{< baseurl >}}/resources/esser_paper))
+Achieving Peace in Crisis Cities – Reflections on Urban Conflict Transformation and the Nation State Project, by Daniel Esser ({{% resource_link 4b8b06d2-9fe9-6ad2-4e81-0832e2bf566d "PDF" %}})
 
-Gujarat - Ahmedabad: A Quagmire of Recurring Conflict, by Shahid Sadruddin Nanavati ([PDF]({{< baseurl >}}/resources/shaids_paper))
+Gujarat - Ahmedabad: A Quagmire of Recurring Conflict, by Shahid Sadruddin Nanavati ({{% resource_link 8142ade5-3a51-fb19-2bd0-d6276ee32a28 "PDF" %}})
