@@ -6,6 +6,7 @@ file: /courses/11-949-cities-in-conflict-theory-and-practice-fall-2003/4b8b06d29
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Achieving Peace in Crisis Cities \u2013 Reflections on Urban Conflict Tr
 uid: 4b8b06d2-9fe9-6ad2-4e81-0832e2bf566d
 ---
 Student paper on the role of cities in both the outbreak and the appeasement in large-scale violent conflicts.
-
