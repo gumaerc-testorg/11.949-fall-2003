@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: This section provides the schedule of discussion topics for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 0374c22b-c629-d18c-89d6-0db6865c553b
 ---
 
-The calendar below lists discussion topics covered in class based on required [readings]({{< baseurl >}}/pages/readings).
+The calendar below lists discussion topics covered in class based on required {{% resource_link b43ff3b6-0af3-74b2-2e22-f3c8b44e7deb "readings" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}

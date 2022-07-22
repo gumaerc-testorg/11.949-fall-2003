@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides bibliographic citations of required readings for
+  the course, arranged by topic area.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: b43ff3b6-0af3-74b2-2e22-f3c8b44e7deb
 ---
