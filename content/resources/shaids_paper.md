@@ -2,6 +2,7 @@
 content_type: resource
 description: Student paper on conflict in Gujarat, India.
 file: /courses/11-949-cities-in-conflict-theory-and-practice-fall-2003/8142ade53a51fb192bd0d6276ee32a28_shaids_paper.pdf
+file_size: 94207
 file_type: application/pdf
 learning_resource_types:
 - Assignments
