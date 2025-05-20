@@ -2,7 +2,7 @@
 content_type: resource
 description: Student paper on the role of cities in both the outbreak and the appeasement
   in large-scale violent conflicts.
-file: /ol-ocw-studio-app/courses/11-949-cities-in-conflict-theory-and-practice-fall-2003/4b8b06d29fe96ad24e810832e2bf566d_esser_paper.pdf
+file: /courses/11-949-cities-in-conflict-theory-and-practice-fall-2003/4b8b06d29fe96ad24e810832e2bf566d_esser_paper.pdf
 file_size: 281535
 file_type: application/pdf
 learning_resource_types:
